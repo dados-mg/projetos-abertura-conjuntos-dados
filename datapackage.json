@@ -1,0 +1,67 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "conjuntos-dados",
+      "path": "data/conjuntos-dados.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Name",
+            "type": "string",
+            "format": "default",
+            "description": "Identificador legível por máquina e por humanos do projeto.\n\nÉ utilizado para nome de diretórios, repositórios, datasets no CKAN, etc."
+          },
+          {
+            "name": "Title",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Onda",
+            "type": "integer",
+            "format": "default",
+            "description": "Ordem de prioridade para iniciação de um projeto de abertura de dados"
+          },
+          {
+            "name": "Status",
+            "type": "string",
+            "format": "default",
+            "description": "Status do projeto de abertura. Pode assumir os seguintes valores:\n\n- Iniciado\n- Publicado"
+          },
+          {
+            "name": "Tipo",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Repo",
+            "type": "string",
+            "format": "uri",
+            "description": "URL para Git público contendo o projeto"
+          },
+          {
+            "name": "PortalTransparencia",
+            "type": "string",
+            "format": "uri"
+          },
+          {
+            "name": "Organizacao",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Observacao",
+            "type": "string",
+            "format": "default"
+          }
+        ],
+        "missingValues": ["NA"]
+      }
+    }
+  ],
+  "name": "projetos-abertura-conjuntos-dados",
+  "title": "Projetos de Abertura de Conjuntos de Dados",
+  "version": "0.0.0.9000"
+}
