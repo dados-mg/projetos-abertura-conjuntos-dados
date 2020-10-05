@@ -6,15 +6,15 @@ termos-parceria-contratos-gestao;Termos de Parceria e Contratos de Gestão;1;Pub
 doacoes-comodatos-amigo-estado-mg;Doações realizadas ao governo;1;Publicado;ckan;https://github.com/dados-mg/doacoes-comodatos-amigo-estado-mg;NA;SEPLAG;NA
 relatorios-pedidos-acesso-informacao;Relatórios de Pedidos, Recursos e Reclamações por Instituição;2;NA;ckan;https://github.com/dados-mg/relatorios-pedidos-acesso-informacao;http://www.transparencia.mg.gov.br/o-que-e#relat%C3%B3rios-gerenciais-%E2%80%93-lei-de-acesso-%C3%A0-informa%C3%A7%C3%A3o;CGE;NA
 NA;Instituições Participativas do Estado de Minas Gerais;2;NA;NA;NA;NA;CGE;Parceria com Diretoria de Controle Social/CGE
-despesa;Despesa Pública do Estado de Minas Gerais;3;NA;ckan;NA;http://www.transparencia.mg.gov.br/despesa-estado/despesa;CGE;"Priorizada no planejamento estratégico; Base extraída pelo NUCC"
-compras-contratos;Compras e contratos do Estado de Minas Gerais;3;NA;ckan;https://github.com/dados-mg/compras-contratos;http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos;CGE;Base extraída pelo NUCC
-remuneracao;Remuneração dos Servidores do Poder Executivo Estadual;4;NA;ckan;https://github.com/dados-mg/remuneracao;http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores;CGE;Priorizada no planejamento estratégico - com adequações a serem feitas para descaracterização das unidades prisionais e socioeducativas nos arquivos de 2019
-diarias;Despesas com diárias;4;NA;ckan;NA;http://www.transparencia.mg.gov.br/estado-pessoal/diarias;CGE;Priorizada no planejamento estratégico
-restos-a-pagar;Despesas com restos a pagar;4;NA;ckan;NA;http://www.transparencia.mg.gov.br/despesa-estado/restos-a-pagar;CGE;Priorizada no planejamento estratégico
-convenios-saida;Convênios / Parcerias de recursos de saída;4;NA;ckan;NA;http://www.transparencia.mg.gov.br/convenios/convenios-de-saida;CGE;Priorizada no planejamento estratégico
-despesa-pessoal;Despesas com pessoal;5;NA;ckan;https://github.com/dados-mg/despesa-pessoal;http://www.transparencia.mg.gov.br/estado-pessoal/despesa-com-pessoal;CGE;NA
+despesa;Despesa Pública do Estado de Minas Gerais;3;Iniciado;ckan;NA;http://www.transparencia.mg.gov.br/despesa-estado/despesa;CGE;"Priorizada no planejamento estratégico; Base extraída pelo NUCC"
+compras-contratos;Compras e contratos do Estado de Minas Gerais;3;Iniciado;ckan;https://github.com/dados-mg/compras-contratos;http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos;CGE;Base extraída pelo NUCC
+remuneracao;Remuneração dos Servidores do Poder Executivo Estadual;4;Iniciado;ckan;https://github.com/dados-mg/remuneracao;http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores;CGE;Priorizada no planejamento estratégico - com adequações a serem feitas para descaracterização das unidades prisionais e socioeducativas nos arquivos de 2019
+diarias;Despesas com diárias;4;Iniciado;ckan;NA;http://www.transparencia.mg.gov.br/estado-pessoal/diarias;CGE;Priorizada no planejamento estratégico
+restos-a-pagar;Despesas com restos a pagar;4;Iniciado;ckan;NA;http://www.transparencia.mg.gov.br/despesa-estado/restos-a-pagar;CGE;Priorizada no planejamento estratégico
+convenios-saida;Convênios / Parcerias de recursos de saída;4;Iniciado;ckan;NA;http://www.transparencia.mg.gov.br/convenios/convenios-de-saida;CGE;Priorizada no planejamento estratégico
+despesa-pessoal;Despesas com pessoal;5;Iniciado;ckan;https://github.com/dados-mg/despesa-pessoal;http://www.transparencia.mg.gov.br/estado-pessoal/despesa-com-pessoal;CGE;NA
 receita;Arrecadação Estadual;5;NA;ckan;NA;http://www.transparencia.mg.gov.br/estado-receita;CGE;NA
-divida-publica;Execução da Dívida Pública do Estado;5;NA;ckan;https://github.com/dados-mg/divida-publica;http://www.transparencia.mg.gov.br/divida-publica/execucao-da-divida;CGE;NA
+divida-publica;Execução da Dívida Pública do Estado;5;Iniciado;ckan;https://github.com/dados-mg/divida-publica;http://www.transparencia.mg.gov.br/divida-publica/execucao-da-divida;CGE;NA
 transferencia-impostos-municipios;Repasse a municípios;5;NA;ckan;NA;http://www.transparencia.mg.gov.br/transferencia-de-impostos-a-municipios;CGE;NA
 NA;Arrecadação e destinação de multas de trânsito;6;NA;NA;NA;NA;NA;LEI 23573, DE 14/01/2020
 NA;Dívidas e créditos tributários compensados pelo Estado;6;NA;NA;NA;NA;NA;Lei Estadual nº 23.510/2019 – art. 4º
