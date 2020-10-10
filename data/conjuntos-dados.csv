@@ -1,51 +1,51 @@
-﻿Name;Title;Onda;Status;Tipo;Repo;PortalTransparencia;Organizacao;Observacao
-compras-emergenciais-covid-19;Contratações para enfrentamento do coronavírus (COVID-19);1;Publicado;ckan;https://github.com/dados-mg/compras-emergenciais-covid-19;NA;CGE;NA
-obitos-confirmados-covid-19;Óbitos confirmados por coronavírus em Minas Gerais;1;Publicado;ckan;https://github.com/dados-mg/obitos-confirmados-covid-19;NA;SES;NA
-casos-confirmados-covid-19;Casos confirmados por coronavírus em Minas Gerais;1;Publicado;ckan;https://github.com/dados-mg/casos-confirmados-covid-19;NA;SES;NA
-termos-parceria-contratos-gestao;Termos de Parceria e Contratos de Gestão;1;Publicado;ckan;https://github.com/dados-mg/termos-parceria-contratos-gestao;NA;SEPLAG;NA
-doacoes-comodatos-amigo-estado-mg;Doações realizadas ao governo;1;Publicado;ckan;https://github.com/dados-mg/doacoes-comodatos-amigo-estado-mg;NA;SEPLAG;NA
-relatorios-pedidos-acesso-informacao;Relatórios de Pedidos, Recursos e Reclamações por Instituição;2;NA;ckan;https://github.com/dados-mg/relatorios-pedidos-acesso-informacao;http://www.transparencia.mg.gov.br/o-que-e#relat%C3%B3rios-gerenciais-%E2%80%93-lei-de-acesso-%C3%A0-informa%C3%A7%C3%A3o;CGE;NA
-NA;Instituições Participativas do Estado de Minas Gerais;2;NA;NA;NA;NA;CGE;Parceria com Diretoria de Controle Social/CGE
-despesa;Despesa Pública do Estado de Minas Gerais;3;Iniciado;ckan;NA;http://www.transparencia.mg.gov.br/despesa-estado/despesa;CGE;"Priorizada no planejamento estratégico; Base extraída pelo NUCC"
-compras-contratos;Compras e contratos do Estado de Minas Gerais;3;Iniciado;ckan;https://github.com/dados-mg/compras-contratos;http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos;CGE;Base extraída pelo NUCC
-remuneracao;Remuneração dos Servidores do Poder Executivo Estadual;4;Iniciado;ckan;https://github.com/dados-mg/remuneracao;http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores;CGE;Priorizada no planejamento estratégico - com adequações a serem feitas para descaracterização das unidades prisionais e socioeducativas nos arquivos de 2019
-diarias;Despesas com diárias;4;Iniciado;ckan;NA;http://www.transparencia.mg.gov.br/estado-pessoal/diarias;CGE;Priorizada no planejamento estratégico
-restos-a-pagar;Despesas com restos a pagar;4;Iniciado;ckan;NA;http://www.transparencia.mg.gov.br/despesa-estado/restos-a-pagar;CGE;Priorizada no planejamento estratégico
-convenios-saida;Convênios / Parcerias de recursos de saída;4;Iniciado;ckan;NA;http://www.transparencia.mg.gov.br/convenios/convenios-de-saida;CGE;Priorizada no planejamento estratégico
-despesa-pessoal;Despesas com pessoal;5;Iniciado;ckan;https://github.com/dados-mg/despesa-pessoal;http://www.transparencia.mg.gov.br/estado-pessoal/despesa-com-pessoal;CGE;NA
-receita;Arrecadação Estadual;5;NA;ckan;NA;http://www.transparencia.mg.gov.br/estado-receita;CGE;NA
-divida-publica;Execução da Dívida Pública do Estado;5;Iniciado;ckan;https://github.com/dados-mg/divida-publica;http://www.transparencia.mg.gov.br/divida-publica/execucao-da-divida;CGE;NA
-transferencia-impostos-municipios;Repasse a municípios;5;NA;ckan;NA;http://www.transparencia.mg.gov.br/transferencia-de-impostos-a-municipios;CGE;NA
-NA;Arrecadação e destinação de multas de trânsito;6;NA;NA;NA;NA;NA;LEI 23573, DE 14/01/2020
-NA;Dívidas e créditos tributários compensados pelo Estado;6;NA;NA;NA;NA;NA;Lei Estadual nº 23.510/2019 – art. 4º
-NA;Proposta Orçamentária e Lei Orçamentária;6;NA;portal / consulta;NA;http://www.transparencia.mg.gov.br/planejamento-e-resultados/proposta-lei-orcamentaria;SEPLAG;NA
-NA;Planejamento e Monitoramento;6;NA;portal / consulta;NA;http://www.transparencia.mg.gov.br/planejamento-e-resultados/planejamento-e-monitoramento;SEPLAG;NA
-NA;Pedidos de acesso à informação;7;NA;NA;NA;NA;NA;NA
-NA;Informações classificadas e desclassificadas;7;NA;NA;NA;NA;NA;NA
-NA;Google analytics;7;NA;NA;NA;NA;NA;NA
-NA;Tooltips Portal da Transparência;7;NA;NA;NA;NA;NA;NA
-NA;Informações socioeconômicas;7;NA;portal / conteúdo;NA;http://transparencia.mg.gov.br/informacoes-socioeconomicas;NA;NA
-NA;Legislação e Normativos;7;NA;portal / conteúdo;NA;http://www.transparencia.mg.gov.br/covid-19/legislacao-e-normativos;NA;NA
-NA;Legislação;7;NA;portal / conteúdo;NA;http://www.transparencia.mg.gov.br/legislacao;NA;NA
-NA;Informações gerais;7;NA;portal / conteúdo;NA;http://www.transparencia.mg.gov.br/informacoes-gerais;NA;NA
-NA;Glossário;7;NA;portal / conteúdo;NA;http://www.transparencia.mg.gov.br/glossario;NA;NA
-NA;Perguntas frequentes;7;NA;portal / conteúdo;NA;http://www.transparencia.mg.gov.br/perguntas-frequentes;NA;NA
-NA;Fale conosco;7;NA;portal / conteúdo;NA;http://www.transparencia.mg.gov.br/fale-conosco;NA;NA
-NA;Banco de notícias;7;NA;portal / conteúdo;NA;http://www.transparencia.mg.gov.br/banco-de-noticias;NA;NA
-catalogo-de-dados;Catálogo de Dados;8;NA;ckan;NA;NA;CGE;Escopo dados abertos da organização (ie. estão no CKAN). Faz sentido criar tendo em vista que existe na API?
-NA;Inventário corporativo de dados;8;NA;NA;NA;NA;NA;Escopo dados da organização
-NA;Mapeamento dados pessoais;8;NA;NA;NA;NA;NA;Escopo dados pessoais da organização
-NA;Mapa de Investimento;9;NA;portal / consulta;NA;http://transparencia.mg.gov.br/despesa-estado/mapa-de-investimento;NA;NA
-NA;Viagens;9;NA;portal / consulta;NA;http://transparencia.mg.gov.br/estado-pessoal/viagens;NA;NA
-NA;Concursos Realizados;9;NA;portal / consulta;NA;http://transparencia.mg.gov.br/estado-pessoal/concursos-realizados;NA;NA
-NA;Convênios de entrada de Recursos;9;NA;portal / consulta;NA;http://transparencia.mg.gov.br/convenios/convenio-entrada;NA;NA
-NA;Gestão da Frota;9;NA;portal / consulta;NA;http://transparencia.mg.gov.br/compras-e-patrimonio/gestao-de-frota;NA;NA
-NA;Patrimônio;9;NA;portal / consulta;NA;http://transparencia.mg.gov.br/compras-e-patrimonio/patrimonio;NA;NA
-NA;Compras Programa de Enfrentamento COVID-19;9;NA;portal / consulta;NA;http://www.transparencia.mg.gov.br/covid-19/compras-contratos;NA;NA
-programa-de-financiamento;Programa de Financiamento;10;NA;ckan;NA;NA;FAPEMIG;os conjuntos de dados da FAPEMIG são um único conjunto
-lista-de-servicos-disponibilizados-no-portal-de-servicos-do-governo-do-estado-de-minas-gerais;Lista de Serviços disponibilizados no Portal de Serviços;10;NA;ckan;NA;NA;SEPLAG;NA
-NA;Voos do Governador;10;NA;portal / arquivo;NA;http://www.transparencia.mg.gov.br/estado-pessoal/voos-do-governador;NA;NA
-NA;Cadastro dos Servidores Excluídos da Administração Pública Estadual (CEAPE);10;NA;portal / arquivo;NA;http://www.transparencia.mg.gov.br/estado-pessoal#cadastro-de-servidores-civis-exclu%C3%ADdos-da-administra%C3%A7%C3%A3o-p%C3%BAblica-estadual;NA;NA
-NA;Tabelas de Vencimento Básico;10;NA;portal / arquivo;NA;http://www.transparencia.mg.gov.br/estado-pessoal#tabelas-de-vencimento-b%C3%A1sico;NA;NA
-doacoes-covid-19;Doações COVID-19;NA;Publicado;NA;https://github.com/dados-mg/doacoes-covid-19;NA;GMG;NA
-NA;Emendas;NA;NA;NA;NA;NA;SEGOV;NA
+﻿Name,Title,Onda,Status,Tipo,Repo,PortalTransparencia,Organizacao,Observacao
+compras-emergenciais-covid-19,Contratações para enfrentamento do coronavírus (COVID-19),1,Publicado,ckan,https://github.com/dados-mg/compras-emergenciais-covid-19,NA,CGE,NA
+obitos-confirmados-covid-19,Óbitos confirmados por coronavírus em Minas Gerais,1,Publicado,ckan,https://github.com/dados-mg/obitos-confirmados-covid-19,NA,SES,NA
+casos-confirmados-covid-19,Casos confirmados por coronavírus em Minas Gerais,1,Publicado,ckan,https://github.com/dados-mg/casos-confirmados-covid-19,NA,SES,NA
+termos-parceria-contratos-gestao,Termos de Parceria e Contratos de Gestão,1,Publicado,ckan,https://github.com/dados-mg/termos-parceria-contratos-gestao,NA,SEPLAG,NA
+doacoes-comodatos-amigo-estado-mg,Doações realizadas ao governo,1,Publicado,ckan,https://github.com/dados-mg/doacoes-comodatos-amigo-estado-mg,NA,SEPLAG,NA
+relatorios-pedidos-acesso-informacao,"Relatórios de Pedidos, Recursos e Reclamações por Instituição",2,NA,ckan,https://github.com/dados-mg/relatorios-pedidos-acesso-informacao,http://www.transparencia.mg.gov.br/o-que-e#relat%C3%B3rios-gerenciais-%E2%80%93-lei-de-acesso-%C3%A0-informa%C3%A7%C3%A3o,CGE,NA
+NA,Instituições Participativas do Estado de Minas Gerais,2,NA,NA,NA,NA,CGE,Parceria com Diretoria de Controle Social/CGE
+despesa,Despesa Pública do Estado de Minas Gerais,3,Iniciado,ckan,NA,http://www.transparencia.mg.gov.br/despesa-estado/despesa,CGE,Priorizada no planejamento estratégico; Base extraída pelo NUCC
+compras-contratos,Compras e contratos do Estado de Minas Gerais,3,Iniciado,ckan,https://github.com/dados-mg/compras-contratos,http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos,CGE,Base extraída pelo NUCC
+remuneracao,Remuneração dos Servidores do Poder Executivo Estadual,4,Iniciado,ckan,https://github.com/dados-mg/remuneracao,http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores,CGE,Priorizada no planejamento estratégico - com adequações a serem feitas para descaracterização das unidades prisionais e socioeducativas nos arquivos de 2019
+diarias,Despesas com diárias,4,Iniciado,ckan,NA,http://www.transparencia.mg.gov.br/estado-pessoal/diarias,CGE,Priorizada no planejamento estratégico
+restos-a-pagar,Despesas com restos a pagar,4,Iniciado,ckan,NA,http://www.transparencia.mg.gov.br/despesa-estado/restos-a-pagar,CGE,Priorizada no planejamento estratégico
+convenios-saida,Convênios / Parcerias de recursos de saída,4,Iniciado,ckan,NA,http://www.transparencia.mg.gov.br/convenios/convenios-de-saida,CGE,Priorizada no planejamento estratégico
+despesa-pessoal,Despesas com pessoal,5,Iniciado,ckan,https://github.com/dados-mg/despesa-pessoal,http://www.transparencia.mg.gov.br/estado-pessoal/despesa-com-pessoal,CGE,NA
+receita,Arrecadação Estadual,5,NA,ckan,NA,http://www.transparencia.mg.gov.br/estado-receita,CGE,NA
+divida-publica,Execução da Dívida Pública do Estado,5,Iniciado,ckan,https://github.com/dados-mg/divida-publica,http://www.transparencia.mg.gov.br/divida-publica/execucao-da-divida,CGE,NA
+transferencia-impostos-municipios,Repasse a municípios,5,NA,ckan,NA,http://www.transparencia.mg.gov.br/transferencia-de-impostos-a-municipios,CGE,NA
+NA,Arrecadação e destinação de multas de trânsito,6,NA,NA,NA,NA,NA,"LEI 23573, DE 14/01/2020"
+NA,Dívidas e créditos tributários compensados pelo Estado,6,NA,NA,NA,NA,NA,Lei Estadual nº 23.510/2019 – art. 4º
+NA,Proposta Orçamentária e Lei Orçamentária,6,NA,portal / consulta,NA,http://www.transparencia.mg.gov.br/planejamento-e-resultados/proposta-lei-orcamentaria,SEPLAG,NA
+NA,Planejamento e Monitoramento,6,NA,portal / consulta,NA,http://www.transparencia.mg.gov.br/planejamento-e-resultados/planejamento-e-monitoramento,SEPLAG,NA
+NA,Pedidos de acesso à informação,7,NA,NA,NA,NA,NA,NA
+NA,Informações classificadas e desclassificadas,7,NA,NA,NA,NA,NA,NA
+NA,Google analytics,7,NA,NA,NA,NA,NA,NA
+NA,Tooltips Portal da Transparência,7,NA,NA,NA,NA,NA,NA
+NA,Informações socioeconômicas,7,NA,portal / conteúdo,NA,http://transparencia.mg.gov.br/informacoes-socioeconomicas,NA,NA
+NA,Legislação e Normativos,7,NA,portal / conteúdo,NA,http://www.transparencia.mg.gov.br/covid-19/legislacao-e-normativos,NA,NA
+NA,Legislação,7,NA,portal / conteúdo,NA,http://www.transparencia.mg.gov.br/legislacao,NA,NA
+NA,Informações gerais,7,NA,portal / conteúdo,NA,http://www.transparencia.mg.gov.br/informacoes-gerais,NA,NA
+NA,Glossário,7,NA,portal / conteúdo,NA,http://www.transparencia.mg.gov.br/glossario,NA,NA
+NA,Perguntas frequentes,7,NA,portal / conteúdo,NA,http://www.transparencia.mg.gov.br/perguntas-frequentes,NA,NA
+NA,Fale conosco,7,NA,portal / conteúdo,NA,http://www.transparencia.mg.gov.br/fale-conosco,NA,NA
+NA,Banco de notícias,7,NA,portal / conteúdo,NA,http://www.transparencia.mg.gov.br/banco-de-noticias,NA,NA
+catalogo-de-dados,Catálogo de Dados,8,NA,ckan,NA,NA,CGE,Escopo dados abertos da organização (ie. estão no CKAN). Faz sentido criar tendo em vista que existe na API?
+NA,Inventário corporativo de dados,8,NA,NA,NA,NA,NA,Escopo dados da organização
+NA,Mapeamento dados pessoais,8,NA,NA,NA,NA,NA,Escopo dados pessoais da organização
+NA,Mapa de Investimento,9,NA,portal / consulta,NA,http://transparencia.mg.gov.br/despesa-estado/mapa-de-investimento,NA,NA
+NA,Viagens,9,NA,portal / consulta,NA,http://transparencia.mg.gov.br/estado-pessoal/viagens,NA,NA
+NA,Concursos Realizados,9,NA,portal / consulta,NA,http://transparencia.mg.gov.br/estado-pessoal/concursos-realizados,NA,NA
+NA,Convênios de entrada de Recursos,9,NA,portal / consulta,NA,http://transparencia.mg.gov.br/convenios/convenio-entrada,NA,NA
+NA,Gestão da Frota,9,NA,portal / consulta,NA,http://transparencia.mg.gov.br/compras-e-patrimonio/gestao-de-frota,NA,NA
+NA,Patrimônio,9,NA,portal / consulta,NA,http://transparencia.mg.gov.br/compras-e-patrimonio/patrimonio,NA,NA
+NA,Compras Programa de Enfrentamento COVID-19,9,NA,portal / consulta,NA,http://www.transparencia.mg.gov.br/covid-19/compras-contratos,NA,NA
+programa-de-financiamento,Programa de Financiamento,10,NA,ckan,NA,NA,FAPEMIG,os conjuntos de dados da FAPEMIG são um único conjunto
+lista-de-servicos-disponibilizados-no-portal-de-servicos-do-governo-do-estado-de-minas-gerais,Lista de Serviços disponibilizados no Portal de Serviços,10,NA,ckan,NA,NA,SEPLAG,NA
+NA,Voos do Governador,10,NA,portal / arquivo,NA,http://www.transparencia.mg.gov.br/estado-pessoal/voos-do-governador,NA,NA
+NA,Cadastro dos Servidores Excluídos da Administração Pública Estadual (CEAPE),10,NA,portal / arquivo,NA,http://www.transparencia.mg.gov.br/estado-pessoal#cadastro-de-servidores-civis-exclu%C3%ADdos-da-administra%C3%A7%C3%A3o-p%C3%BAblica-estadual,NA,NA
+NA,Tabelas de Vencimento Básico,10,NA,portal / arquivo,NA,http://www.transparencia.mg.gov.br/estado-pessoal#tabelas-de-vencimento-b%C3%A1sico,NA,NA
+doacoes-covid-19,Doações COVID-19,NA,Publicado,NA,https://github.com/dados-mg/doacoes-covid-19,NA,GMG,NA
+NA,Emendas,NA,NA,NA,NA,NA,SEGOV,NA
