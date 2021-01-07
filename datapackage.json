@@ -19,6 +19,21 @@
             "format": "default"
           },
           {
+            "name": "PlanejamentoEstrategico",
+            "type": "boolean",
+            "trueValues": ["sim"],
+            "falseValues": ["nao"],
+            "format": "default",
+            "description": "Identificação se o conjunto está previsto no escopo do indicador 'Percentual das Consultas do Portal da Transparência divulgadas no Portal de Dados Abertos de maneira tempestiva' previsto no Planejamento Estratégico da CGE"
+          },
+          {
+            "name": "GRP",
+            "type": "string",
+            "format": "default",
+            "description": "Identificação se o conjunto será impacto pela implantação do GRP",
+            "enum": ["sim", "nao", "analisar"]
+          },
+          {
             "name": "Onda",
             "type": "integer",
             "format": "default",
