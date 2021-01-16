@@ -15,7 +15,7 @@ convenios-saida;Convênios / Parcerias de recursos de saída;sim;analisar;4;Inic
 despesa-pessoal;Despesas com pessoal;sim;sim;5;Iniciado;ckan;https://github.com/dados-mg/despesa-pessoal;http://www.transparencia.mg.gov.br/estado-pessoal/despesa-com-pessoal;CGE;NA
 receita;Arrecadação Estadual;sim;sim;5;NA;ckan;NA;http://www.transparencia.mg.gov.br/estado-receita;CGE;NA
 divida-publica;Execução da Dívida Pública do Estado;sim;sim;5;Iniciado;ckan;https://github.com/dados-mg/divida-publica;http://www.transparencia.mg.gov.br/divida-publica/execucao-da-divida;CGE;NA
-transferencia-impostos-municipios;Repasse a municípios;sim;sim;5;NA;ckan;NA;http://www.transparencia.mg.gov.br/transferencia-de-impostos-a-municipios;CGE;NA
+transferencia-impostos-municipios;Repasse a municípios;sim;analisar;5;NA;ckan;NA;http://www.transparencia.mg.gov.br/transferencia-de-impostos-a-municipios;CGE;NA
 NA;Arrecadação e destinação de multas de trânsito;nao;nao;6;NA;NA;NA;NA;NA;LEI 23573, DE 14/01/2020
 NA;Dívidas e créditos tributários compensados pelo Estado;nao;nao;6;NA;NA;NA;NA;NA;Lei Estadual nº 23.510/2019 – art. 4º
 NA;Proposta Orçamentária e Lei Orçamentária;sim;analisar;6;NA;portal / consulta;NA;http://www.transparencia.mg.gov.br/planejamento-e-resultados/proposta-lei-orcamentaria;SEPLAG;No Portal da Transparência esse conjunto de dados é representado em 5 consultas diferentes: 1) Proposta Orçamentária 2) Emendas Orçamentárias 3) Alteração Orçamentária 4) Obras Orçadas 5) Crédito Orçamentário
